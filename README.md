@@ -1,12 +1,16 @@
 
 <a name="readme-top"></a>
 
-Join us
+## Join us
 
 
 [![LinkedIn][linkedin-aws-dugb]][linkedin-url]
+[![Meetup][meetup-aws-dugb]][meetup-aws-dugb-url]
 
-
+<br />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/aws-data-usergroup-bangalore/aws-dugb-images/main/aws-dugb.png" width="300">
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -77,17 +81,10 @@ This will create S3 Bucket, DynamoDB lock Tables
 
 
 
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-
-
 
 [linkedin-aws-dugb]: https://github.com/aws-data-usergroup-bangalore/aws-dugb-images/blob/main/linkedin.JPG?raw=true
 [linkedin-url]: https://www.linkedin.com/company/aws-data-user-group-bangalore
+[meetup-aws-dugb]: https://raw.githubusercontent.com/aws-data-usergroup-bangalore/aws-dugb-images/main/meetup_logo.JPG
+[meetup-aws-dugb-url]: https://www.meetup.com/aws-data-user-group-bangalore
+
 [awsdugb-image]: https://secure.meetupstatic.com/photos/event/3/6/1/2/clean_509113842.jpeg
