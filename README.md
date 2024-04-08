@@ -64,7 +64,7 @@ This will create S3 Bucket, DynamoDB lock Tables
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/aws-data-usergroup-bangalore/aws-dugb-sagemaker-tfsetup.git
+   git clone https://github.com/dataopslabs-aws/aws-dugb-sagemaker-tfsetup.git
    ```
 2. Run Terraform init to Check the provider loaded as expected
    ``` 
